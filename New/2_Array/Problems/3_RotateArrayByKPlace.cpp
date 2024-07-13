@@ -1,5 +1,0 @@
-/**
- * ## Amit Raikwar
- *
- * Problem:
- */
