@@ -24,3 +24,5 @@ Array is stored at computer memory, array takes the contigous memory location.
 4. Remove duplicates from an array || Allow duplication in the array.
 5. Rotate array by one place.
 6. Rotate array by kth place.
+7. Move zeros to the end.
+8. Linear search.
