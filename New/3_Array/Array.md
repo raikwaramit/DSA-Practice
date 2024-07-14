@@ -26,3 +26,4 @@ Array is stored at computer memory, array takes the contigous memory location.
 6. Rotate array by kth place.
 7. Move zeros to the end.
 8. Linear search.
+9. Find union and intersection of the two sorted array.
